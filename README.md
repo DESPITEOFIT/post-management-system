@@ -107,11 +107,11 @@ Make sure you have Node.js and npm installed on your system.
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/DESPITEOFIT/post-management-system.git
 ```
 2. Navigate to the project directory:
 ```
-cd <project-folder>
+cd post-management-system
 ```
 3. Install the dependencies:
 ```
